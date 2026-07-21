@@ -9,7 +9,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=0kaveennimsara0&label=Profile%20views&color=0e75b6&style=flat" alt="0kaveennimsara0" />
   <br><br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0kaveennimsara0" alt="0kaveennimsara0" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=0kaveennimsara0&ignore_cache=1" alt="0kaveennimsara0" />
+  </a>
 </div>
 
 ---
@@ -95,9 +97,9 @@ A mobile hotel room management and booking application.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0kaveennimsara0&show_icons=true&locale=en&layout=compact" alt="0kaveennimsara0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0kaveennimsara0&show_icons=true&locale=en&layout=compact&ignore_cache=1" alt="0kaveennimsara0" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=0kaveennimsara0&show_icons=true&locale=en" alt="0kaveennimsara0" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=0kaveennimsara0&show_icons=true&locale=en&ignore_cache=1" alt="0kaveennimsara0" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0kaveennimsara0&" alt="0kaveennimsara0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0kaveennimsara0" alt="0kaveennimsara0" />
 </div>
