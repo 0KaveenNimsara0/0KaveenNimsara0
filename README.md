@@ -22,7 +22,7 @@
 - 💻 **Focus:** Currently seeking entry-level roles in Software Engineering, Full Stack Development, Backend Development, or IT Systems.
 - 🌱 **Currently Learning:** Diving deeper into **C#** and **Spring Boot**, alongside machine learning applications (regression modeling, text sentiment analysis, and image classification).
 - 🎨 **Beyond Coding:** I have an active interest in digital content creation and developing animated programming content!
-- 👨‍💻 **Portfolio:** Check out all my projects at [https://0kaveennimsara0.github.io/portfolio/](https://0kaveennimsara0.github.io/portfolio/)
+- 👨‍💻 **Portfolio:** Check out all my projects at [https://portfolio-kaveennimsara.vercel.app/](https://portfolio-kaveennimsara.vercel.app/)
 - 💬 **Ask me about:** React, Python, Java, PHP
 - 📫 **How to reach me:** **kaveennimsara30@gmail.com**
 
