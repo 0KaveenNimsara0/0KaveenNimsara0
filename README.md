@@ -1,4 +1,3 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/06dbb92b-0506-4ac8-bd6f-d6134ebd8297" /><div align="center">
   <!-- Ensure your banner image is uploaded to your repository and matches this file path -->
   <img src="./github_profile_banner.png" alt="Profile Banner" width="100%" />
 </div>
