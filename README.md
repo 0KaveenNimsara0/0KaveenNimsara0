@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/06dbb92b-0506-4ac8-bd6f-d6134ebd8297" /><div align="center">
   <!-- Ensure your banner image is uploaded to your repository and matches this file path -->
   <img src="./github_profile_banner.png" alt="Profile Banner" width="100%" />
 </div>
@@ -22,9 +22,9 @@
 - 💻 **Focus:** Currently seeking entry-level roles in Software Engineering, Full Stack Development, Backend Development, or IT Systems.
 - 🌱 **Currently Learning:** Diving deeper into **C#** and **Spring Boot**, alongside machine learning applications (regression modeling, text sentiment analysis, and image classification).
 - 🎨 **Beyond Coding:** I have an active interest in digital content creation and developing animated programming content!
-- 👨‍💻 **Portfolio:** Check out all my projects at [https://portfolio-kaveennimsara.vercel.app/](https://portfolio-kaveennimsara.vercel.app/)
+- 👨‍💻 **Portfolio:** Check out all my projects at [https://kaveen.dev/](https://kaveen.dev)
 - 💬 **Ask me about:** React, Python, Java, PHP
-- 📫 **How to reach me:** **kaveennimsara30@gmail.com**
+- 📫 **How to reach me:** **hello@kaveen.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
